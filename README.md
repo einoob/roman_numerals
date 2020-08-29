@@ -8,11 +8,10 @@ You can give multiple numbers at once. Converter prints every number (or error m
 followed by a new line.
 
 Example:
-./converter I MCCXXXIV MMXX ABCD
-
-1
-1234
-2020
+./converter I MCCXXXIV MMXX ABCD\n
+1\n
+1234\n
+2020\n
 Invalid input: allowed characters are 'I V X L C D M -'.
 
 
