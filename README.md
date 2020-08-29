@@ -9,9 +9,9 @@ followed by a new line.
 
 Example:
 ./converter I MCCXXXIV MMXX ABCD\n
-1\n
-1234\n
-2020\n
+1
+1234
+2020
 Invalid input: allowed characters are 'I V X L C D M -'.
 
 
